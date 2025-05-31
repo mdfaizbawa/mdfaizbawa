@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a 📊 Data Analyst<br>AI & 🤖 Data Science Enthusiast<br>🧠 Machine Learning Expert 🚀<br>
+👋 Data Science Intern with 1+ year of experience in machine learning, deep learning, and NLP.
+🧠 Skilled in data processing, feature engineering, and predictive modeling.
+🛠️ Proficient in Python, SQL, Power BI, and Tableau for analysis and visualization.
+📊 Passionate about turning data into insights that drive smart decisions.🚀<br>
 
 
 ## 🌐 Socials:
