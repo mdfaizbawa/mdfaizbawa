@@ -1,8 +1,14 @@
-# 💫 About Me:
-👋 Data Science Intern with 1+ year of experience in machine learning, deep learning, and NLP.
-🧠 Skilled in data processing, feature engineering, and predictive modeling.
-🛠️ Proficient in Python, SQL, Power BI, and Tableau for analysis and visualization.
-📊 Passionate about turning data into insights that drive smart decisions.🚀<br>
+👋 Hi, I'm Mohamed Faiz!
+
+I'm an aspiring Generative AI Engineer and Python Developer, passionate about building intelligent AI applications and automation solutions.
+
+💻 Skills: Python | SQL | Machine Learning | Deep Learning | GenAI | LLMs | RAG | LangChain | LangGraph | Agentic AI | FastAPI
+
+🚀 Projects: RetailRAG | YOLOv5 Fire Detection | Sales Revenue Forecasting
+
+🎯 Always learning, building, and exploring new AI technologies.
+
+🤝 Open to opportunities and collaborations in GenAI, AI/ML, and Python Development.
 
 
 ## 🌐 Socials:
