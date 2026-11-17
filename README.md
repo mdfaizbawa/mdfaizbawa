@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohamed Faiz!
+#👋 Hi, I'm Mohamed Faiz!
 
 I'm an aspiring Generative AI Engineer and Python Developer, passionate about building intelligent AI applications and automation solutions.
 
